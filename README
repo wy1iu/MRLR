@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------------------------------------------------------
+Copyright(c) 2015 Yandong Wen, Weiyang Liu
+All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------
+Permission to use, copy, or modify this software and its documentation for educational and research purposes only and without fee is here granted, provided that this copyright notice and the original authors' names appear on all copies and supporting documentation. This program shall not be used, rewritten, or adapted as the basis of a commercial software or hardware product without first obtaining permission of the authors. The authors make no representations about the suitability of this software for any purpose. It is provided "as is" without express or implied warranty.
+---------------------------------------------------------------------------------------------------------------------------
+About the demos
+1 - Make sure you install Computer Vision System Toolbox in Matlab to use Viola-Jones face detector. 
+2 - 'Demo' displays the alignment algorithm in MRLR, including MRLR1 and MRLR2.
+
+---------------------------------------------------------------------------------------------------------------------------
+When using the code in your research work, you should cite the following paper:
+
+Misalignment-robust Face Recognition via Efficient Locality-constrained Representation,
+Yandong Wen, Weiyang Liu, Meng Yang, Yuli Fu, Zhifeng Li
+Available at: http://arxiv.org/abs/1507.07073
+---------------------------------------------------------------------------------------------------------------------------
+
+For any problem about the codes, please contact to {wen.yandong@mail.scut.edu.cn} & {wyliu@pku.edu.cn}
